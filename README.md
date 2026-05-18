@@ -206,9 +206,9 @@ Python-scraper die Marktplaats, Catawiki, LastDodo, Vinted & co afspeurt naar ge
                           ┃       ▀██▄▄                    ▄▄██▀     ┃
                           ┃         ▀▀▀████████████████████▀▀▀       ┃
                           ┃                                          ┃
-                          ┃            ╔═══════════════╗             ┃
-                          ┃            ║   KUSJ!  AF!  ║             ┃
-                          ┃            ╚═══════════════╝             ┃
+                          ┃              ╔═══════════╗               ┃
+                          ┃              ║   KOEST!  ║               ┃
+                          ┃              ╚═══════════╝               ┃
                           ┃                                          ┃
                           ┃                  ┌──────┐                ┃
                           ┃                  │██████│                ┃
